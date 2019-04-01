@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+body{
+	background-color:#e4e4e4;
+	color:black;
+	font-family: 'Noto Serif KR', sans-serif;
+}
+
+.imageContainer {
+background-color: #e4e4e4;
+display:inline-block;
+vertical-align:middle;
+}
+
+.image123{
+	background-color: #e4e4e4;
+	text-align:center;
+    margin-right:5px;
+}
+
+div > img{
+   height:200px;
+    width:200px;
+}
+
+.button{
+	text-align:center;
+}
+
+p{
+    text-align:center;
+}
+
+.wishlist{
+	
+	text-align:center;
+	
+}
+
+li{
+	text-align:center;
+	
+}
+

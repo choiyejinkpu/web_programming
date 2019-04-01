@@ -1,0 +1,27 @@
+@charset "UTF-8";
+.cc1{
+	
+	 height:400px;
+    width:400px;
+	
+}
+
+.imageContainer {
+background-color: #e4e4e4;
+display:inline-block;
+vertical-align:middle;
+}
+
+.image123{
+	background-color: #e4e4e4;
+	text-align:center;
+    margin-right:5px;
+}
+body{
+	font-family: 'Noto Serif KR', sans-serif;
+	background-color: #e4e4e4;
+}
+#luvmovie{
+	font-size:30pt;
+	font-family: 'Gugi', cursive;
+}

@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+table{
+	width:600px;
+}
+
+h2{
+	font-size:20pt;
+	font-family: 'Gugi', cursive;
+}
+
+tr{
+	text-align:center;
+	
+}
+td{
+	text-align:center;
+	
+}

@@ -1,0 +1,17 @@
+@charset "UTF-8";
+tr{
+	text-align:center;
+	background-color: #a4a4a4;
+}
+td{
+	text-align:center;
+	background-color: #a4a4a4;
+}
+#listtable{
+	width:600px;
+}
+
+h2{
+	font-size:20pt;
+	font-family: 'Gugi', cursive;
+}
